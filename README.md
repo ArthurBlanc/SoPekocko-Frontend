@@ -1,5 +1,7 @@
 ## Piquante
 
+Fork of https://github.com/OpenClassrooms-Student-Center/dwj-projet6
+
 Pour faire fonctionner le projet, vous devez installer :
 - [NodeJS](https://nodejs.org/en/download/) en version 12.14 ou 14.0 
 - [Angular CLI](https://github.com/angular/angular-cli) en version 7.0.2.
